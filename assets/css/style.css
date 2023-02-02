@@ -293,6 +293,7 @@ span {
     left: 0;
     width: 100%;
     z-index: 9;
+    background-color: #241c58;
 }
 
 .sticky {
